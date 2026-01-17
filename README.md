@@ -5,7 +5,7 @@
 
 ## About
 
-I started building robots in 2019, during my first months as an engineering student, when I constructed a basic four-wheeled go-kart from scratch. That was the initial push that drove deeper interest in how mathematics, control theory, and algorithms manifest as real physical behavior. Through years of prototyping, simulation, and experimentation, I became able to bring an idea to its physical form in form of robotic models.
+I started building robots in 2019, during my first months as an engineering student, when I constructed a basic four-wheeled go-kart from scratch. That was the initial push that drove deeper interest in how mathematics, control theory, and algorithms manifest as real physical behavior. Through years of prototyping, simulation, and experimentation, I became able to give an idea a physical form as robotic models.
 
 You can refer to the Autonomous VTOL or the Robot Dog Stem kits listed in my public repositories for reference.
 
